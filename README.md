@@ -49,8 +49,9 @@ Developer , Frontend Developer
   <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
   <a href="https://store.arduino.cc/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-  <a href="https://www.jenkins.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jenkins-colored.svg" width="36" height="36" alt="Jenkins" /></a>
-</p>
+<a href="https://www.jenkins.io/">
+  <img src="https://cdn.simpleicons.org/jenkins/ED2939" width="36" height="36" alt="Jenkins" />
+</a>
 
 #### 🎨 UI/UX Design
 <p align="left">
