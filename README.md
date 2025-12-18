@@ -1,7 +1,7 @@
 Hi 👋 My name is Papop Sangeamasak
 ==================================
 
-Developer , Frontend Developer
+Developer , Fullstack Developer
 ------------------------------
 
 * 🌍  I'm based in Sisaket  
